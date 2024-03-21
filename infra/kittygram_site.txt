@@ -1,0 +1,5 @@
+IP: 51.250.100.202;
+name_taski: https://trytaskiforyap.hopto.org;
+name_kittygram: https://trykittygramforyap.hopto.org;
+login: admin;
+password: nikita2540;
